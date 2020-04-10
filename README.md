@@ -1,5 +1,7 @@
 ## Shakespeare Doth Mic Drop 🎤
 
+Date: April 2019
+
 For my take home assessment, I used the following:
 
 1.  Create React App as the base
